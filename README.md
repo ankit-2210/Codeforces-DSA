@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 1 |
+| 5 | 1 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (4)
+- [Uncategorized](#uncategorized) (5)
 
 ---
 
@@ -21,6 +21,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2241C | [RemovevomeR](https://codeforces.com/contest/2241/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2241/C%20-%20RemovevomeR/solution.cpp) |
+| 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
 | 2246A | [farmpiggie and Subset Sum](https://codeforces.com/contest/2246/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2246/A%20-%20farmpiggie%20and%20Subset%20Sum/solution.cpp) |
 | 2246B | [ezraft and Array](https://codeforces.com/contest/2246/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2246/B%20-%20ezraft%20and%20Array/solution.cpp) |
 | 2246C | [0mar and Alternating Sums](https://codeforces.com/contest/2246/problem/C) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2246/C%20-%200mar%20and%20Alternating%20Sums/solution.cpp) |
