@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 13 | 1 |
+| 14 | 1 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (13)
+- [Uncategorized](#uncategorized) (14)
 
 ---
 
@@ -33,6 +33,7 @@
 | 2254B | [Evanescent](https://codeforces.com/contest/2254/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2254/B%20-%20Evanescent/solution.cpp) |
 | 2254C1 | [Marenol (easy version)](https://codeforces.com/contest/2254/problem/C1) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2254/C1%20-%20Marenol%20(easy%20version)/solution.cpp) |
 | 2254C2 | [Marenol (hard version)](https://codeforces.com/contest/2254/problem/C2) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2254/C2%20-%20Marenol%20(hard%20version)/solution.cpp) |
+| 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2254/D%20-%20Silhouette/solution.cpp) |
 
 ---
 
