@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 1 |
+| 18 | 1 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (17)
+- [Uncategorized](#uncategorized) (18)
 
 ---
 
@@ -37,6 +37,7 @@
 | 2254D | [Silhouette](https://codeforces.com/contest/2254/problem/D) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2254/D%20-%20Silhouette/solution.cpp) |
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
+| 2283B | [Rhythmic String](https://codeforces.com/contest/2283/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2283/B%20-%20Rhythmic%20String/solution.cpp) |
 
 ---
 
