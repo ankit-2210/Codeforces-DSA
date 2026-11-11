@@ -6,13 +6,15 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 1 |
+| 19 | 3 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (18)
+- [implementation](#implementation) (1)
+- [strings](#strings) (1)
 
 ---
 
@@ -38,6 +40,18 @@
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 | 2283B | [Rhythmic String](https://codeforces.com/contest/2283/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2283/B%20-%20Rhythmic%20String/solution.cpp) |
+
+### implementation
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [Java 21](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.java) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2044B | [Normal Problem](https://codeforces.com/contest/2044/problem/B) | 800 | [Java 21](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2044/B%20-%20Normal%20Problem/solution.java) |
 
 ---
 
