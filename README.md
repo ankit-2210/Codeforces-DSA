@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 20 | 5 |
+| 21 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (18)
+- [Uncategorized](#uncategorized) (19)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
@@ -42,6 +42,7 @@
 | 2259A | [Moo Language School](https://codeforces.com/contest/2259/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2259/A%20-%20Moo%20Language%20School/solution.cpp) |
 | 2259B | [Minus Two](https://codeforces.com/contest/2259/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2259/B%20-%20Minus%20Two/solution.cpp) |
 | 2283B | [Rhythmic String](https://codeforces.com/contest/2283/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2283/B%20-%20Rhythmic%20String/solution.cpp) |
+| 2290A | [Three Piles](https://codeforces.com/contest/2290/problem/A) | Unrated | [Java 21](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2290/A%20-%20Three%20Piles/solution.java) |
 
 ### greedy
 
