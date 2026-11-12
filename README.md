@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 24 | 5 |
+| 25 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (22)
+- [Uncategorized](#uncategorized) (23)
 - [greedy](#greedy) (1)
 - [implementation](#implementation) (1)
 - [math](#math) (1)
@@ -46,6 +46,7 @@
 | 2290B | [Stubborn Pen](https://codeforces.com/contest/2290/problem/B) | Unrated | [Java 21](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2290/B%20-%20Stubborn%20Pen/solution.java) |
 | 2290C | [Books on a Shelf](https://codeforces.com/contest/2290/problem/C) | Unrated | [Java 21](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2290/C%20-%20Books%20on%20a%20Shelf/solution.java) |
 | 2290D | [Letters Down](https://codeforces.com/contest/2290/problem/D) | Unrated | [Java 21](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2290/D%20-%20Letters%20Down/solution.java) |
+| 2290E | [Avalanche](https://codeforces.com/contest/2290/problem/E) | Unrated | [Java 21](https://github.com/ankit-2210/Codeforces-DSA/blob/HEAD/2290/E%20-%20Avalanche/solution.java) |
 
 ### greedy
 
